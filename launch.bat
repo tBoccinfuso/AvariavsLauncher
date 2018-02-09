@@ -1,0 +1,1 @@
+"C:\Users\Thomas\Desktop\Avaria_Alpha(bots)\AVARIAvs Alpha PC.exe"

@@ -1,2 +1,2 @@
 # AvariavsLauncher
-launcher for beta
+Game launcher concept
